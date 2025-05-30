@@ -1,10 +1,8 @@
 # HyperCCS: Large MultiModal Model
 
-# Model for CCS 
-
 <img src="https://s2.loli.net/2025/05/30/4RXBx7LJq3zeyi9.png" alt="TOC2-01.png" style="zoom: 50%;" />
 
-# Prediction
+# Model for CCS Prediction
 
 This repository contains the implementation of a deep learning model for predicting Collision Cross Section (CCS) values of molecules. The model utilizes a transformer-based architecture with molecular structure information for accurate CCS predictions.
 
