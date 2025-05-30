@@ -1,0 +1,18 @@
+python main.py \
+        --device cuda \
+        --batch_size 64  \
+        --d_dropout 0.1\
+        --dropout 0.1 \
+        --lr_start 1e-5 \
+        --num_workers 20\
+        --max_epochs 1000 \
+        --checkpoint_every 10 \
+        --seed_path './Pretrained/checkpoints/METLIN.ckpt' \
+        --dataset_name FD_M0 \
+        --data_root ./data/FD_M0 \
+        --measure_name CCS \
+        --checkpoints_folder './HyperCCS'\
+        --project_name 'Attention_M0' \
+        --type 'later' \
+        --adduct_num 3 \
+        --ecfp_num 1024 \

@@ -1,0 +1,9 @@
+Molecule Name,CCS,Adduct,smiles,m/z,formula
+Isomaltotriose,211.9,[M+Na]+,C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC3C(C(C(C(O3)O)O)O)O)O)O)O)O)O)O)O,527.1578,C18H32O16
+Melezitose,202.1,[M+Na]+,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@@H]([C@H](O[C@@]2(CO)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)CO)O)O)O)O)O,527.1572,C18H32O16
+Mannotetraose,235.3,[M+Na]+,C(C1C(C(C(C(O1)OC2C(C(OC(C2OC3C(C(C(C(O3)CO)O)O)O)OC4C(C(C(C(O4)CO)O)O)O)CO)O)O)O)O)O,689.2112,C24H42O21
+Isomaltotetraose,235.4,[M+Na]+,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)OC[C@@H]4[C@H]([C@@H]([C@H]([C@H](O4)O)O)O)O)O)O)O)O)O)O)O)O)O)O,689.2112,C24H42O21
+Maltopentaose,257.5,[M+Na]+,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)O)CO)CO)CO)CO)O)O)O)O,851.2622,C30H52O26
+Isomaltopentaose,260.5,[M+Na]+,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)OC[C@@H]4[C@H]([C@@H]([C@H]([C@H](O4)OC[C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O,851.2622,C30H52O26
+Isomaltohexose,284.2,[M+Na]+,O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO[C@H]1O[C@H](CO[C@H]2O[C@H](CO[C@H]3O[C@H](CO[C@H]4O[C@H](CO[C@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H](O)[C@H]1O,1013.3147,C36H62O31
+Cellohexaose,282.4,[M+Na]+,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)O)CO)CO)CO)CO)CO)O)O)O)O,1013.3147,C36H62O31
